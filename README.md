@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yang Hu
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently studying Mathematics and Computer Science at the University of New South Wales.
+- 💞️ I’m looking to collaborate on AI & ML Projects :)
+- 📫 Reach me through my email @
