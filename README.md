@@ -1,5 +1,5 @@
-👋 Hi, I’m Yang
-💼 Aspiring Data Scientist/Machine Learning Engineer
-🎓 Graduate with a double degree: Bachelor of Computer Science and Bachelor of Mathematics, currently pursuing a Master of Data Science and Decisions at the University of New South Wales
-🤝 Interested in collaborating on AI/ML projects and research
-📫 Contact: hyqngh@gmail.com
+- 👋 Hi, I’m Yang
+- 💼 Aspiring Data Scientist/Machine Learning Engineer
+- 🎓 Graduate with a double degree: Bachelor of Computer Science and Bachelor of Mathematics, currently pursuing a Master of Data Science and Decisions at the University of New South Wales
+- 🤝 Interested in collaborating on AI/ML projects and research
+- 📫 Contact: hyqngh@gmail.com
